@@ -57,4 +57,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 ```
 
 ## Author
-[Tvoje Ime]
+Aleksandra Djokic 2145
