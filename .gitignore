@@ -20,7 +20,7 @@ ipython_log.txt
 # Dataset files
 fetal_health.csv
 fetal_health_balanced.csv
-*.csv
+
 
 # Other temporary files
 *.tmp
